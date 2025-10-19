@@ -1,2 +1,1 @@
-# test-diagnostic
-test
+# Test README
